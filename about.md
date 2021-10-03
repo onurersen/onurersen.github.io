@@ -21,7 +21,6 @@ concentrate on living life real rather living a digital form.
 I admit social networks are very effective in people’s lives, choices… but if you want to be unique, if you plan to 
 create memories for yourselves, with your loved ones those matter to you but no one then it’s better to put down that phone, tablet what-so-ever.
 
-I set this blog’s name as “Boogie Woogie by Onur” because I like playing guitar in the blues style. 
 If I was not an engineer, I would like to make music for a living but now we are here, who knows maybe my next take on life will be that :)
 
 Below are my remaining social before after i butchered nearly all.
