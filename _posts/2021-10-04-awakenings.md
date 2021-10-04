@@ -5,7 +5,7 @@ author: "Berat Onur Ersen"
 date: 2021-10-04
 draft: falsnd
 permalink: /2021-10-04-awakenings/
-tags: design
+tags: movie
 ---
 
 Last week I watched a 90s movie (based on a true story) named "Awakenings" which had two big stars in top cast; Robert De Niro and Robin Williams. 
