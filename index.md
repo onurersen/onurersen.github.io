@@ -8,8 +8,8 @@ You can check my resume, my github.io page for more details about myself and wha
 
 🌱 I’m currently learning Azure DevOps, Java 11, Go, Kubernetes and whatever I just bump into.
 
-I created a Youtube channel, and a podcast.
-📺 Türkçe Kubernetes @ Youtube
+I created a Youtube channel, and a podcast.  
+📺 Türkçe Kubernetes @ Youtube  
 🎧 Rota Hollanda @ Spotify
 
 📫 Feel free to contact/connect on Linkedin.
