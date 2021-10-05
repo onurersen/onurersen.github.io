@@ -21,7 +21,7 @@ I definitely emphatised Dr Sayer's (Robin Williams) hope and hopelessness. His e
 
 ![picture alt](/img/awakenings/christopherreeve.jpg)
 
-Leonard character in the movie which was perfectly portrayed by Robert De Niro is supposed to be  a wake up call for the viewers of this masterpiece. We work hard and play hard, try to satisfy ourselves with to much connecting with things those put us away from our own life and loved ones.  
+Leonard character in the movie which was perfectly portrayed by Robert De Niro is supposed to be  a wake up call for the viewers of this masterpiece. We work hard and play hard, try to satisfy ourselves via heavily getting connected to things those put us away from our own life and loved ones.  
 Jobs, titles, money, status...  
 
 When we realize it is too late to create invaluable memories;  
