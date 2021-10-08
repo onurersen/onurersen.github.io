@@ -12,21 +12,20 @@ Hi! I’m Berat Onur Ersen.
 
 I’m using this site to log my activities, thoughts, things those matter to me. ✒️ 
 
-In the past, I was very active on social networks such as Facebook, Twitter, Instagram etc. but now I prefer to 
-concentrate on living life real rather living a digital form.
+In the past, I was very active on social networks. I had account on Facebook, Twitter, Instagram etc. but now I prefer to concentrate on living a real life.
 
 ![picture alt](/img/about/keukenhof.png)
 
-I admit social networks are very effective in people’s lives, choices… but if you want to be unique, if you plan to 
-create memories for yourselves, with your loved ones those matter to you but no one then it’s better to put down that phone, tablet what-so-ever 🙏 
+I admit that social networks are very effective in people’s lives, choices… but I don't want to miss life while trying to figure out those hashgtags.  
+Most of the time, I read about things happenning around the globe or learn about interesting history, and as matter of fact anything about information technologies.
 
 ![picture alt](/img/about/guatape.jpg)
 
-If I was not an engineer, I would like to make music for a living. Trying to produce some tunes in diverse music genres, I like to explore where the notes would take me. If you wonder my recordings, please check my soundcloud page 🎵
+If I was not an engineer, I would like to make music for a living. Sometimes I try to record some tunes in diverse music genres, practicing music theory and see where the notes would take me. If you wonder my recordings, please check my soundcloud page 🎵
 
 ![picture alt](/img/about/studio.jpg)
 
-Below are my remaining social before after i butchered nearly all.
+Below are my remaining social playground on web after i removed nearly all.
 
 * [podcast](https://open.spotify.com/show/4VOTQMN2PnUPjBWG2TiuJE "Rota Hollanda Podcast")  
 * [soundcloud](https://soundcloud.com/onurersen "Onur Ersen soundcloud page")  
