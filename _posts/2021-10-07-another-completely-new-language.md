@@ -18,7 +18,7 @@ After practicing English for 30-something years, I now set sail to  learn Dutch.
 
 ![picture alt](/img/another-completely-new/dutch.gif)
   
-I tried Michel Thomas method via his courses. They were at first seem to be working but then I could not hold on to learning constantly, life happenned and again hello square #1.
+I tried Michel Thomas method via his courses. They at first seem to be working but then I could not hold on to learning constantly, life happenned and again hello square #1.
 
 One thing many people could be sure of is that you have to expose yourself to the language as much as possible.
 ...and that is not possible if you live in the Netherlands or Nordic countries. People can speak native-level English and don't bother to switch to English just in case you don't understand what they say.  
