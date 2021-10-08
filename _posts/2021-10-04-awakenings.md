@@ -3,7 +3,7 @@ layout: page
 title: "Awakenings"
 author: "Berat Onur Ersen"
 date: 2021-10-04
-draft: falsnd
+draft: false
 permalink: /2021-10-04-awakenings/
 tags: movie
 ---
