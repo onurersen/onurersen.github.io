@@ -17,37 +17,37 @@ With that in mind, I started to write down each and every pattern I know, learn 
 
 ---
 
-A Pattern A Day #1 - [Singleton](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/singleton)
+A Pattern A Day #1 - [Singleton](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/singleton)
 
-A Pattern A Day #2 - [Factory](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/factory)
+A Pattern A Day #2 - [Factory](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/factory)
 
-A Pattern A Day #3 - [Template](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/template)
+A Pattern A Day #3 - [Template](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/template)
 
-A Pattern A Day #4 - [Adapter](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/adapter)
+A Pattern A Day #4 - [Adapter](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/adapter)
 
-A Pattern A Day #5 - [Facade](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/facade)
+A Pattern A Day #5 - [Facade](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/facade)
 
-A Pattern A Day #6 - [Strategy](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/strategy)
+A Pattern A Day #6 - [Strategy](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/strategy)
 
-A Pattern A Day #7 - [State](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/state)
+A Pattern A Day #7 - [State](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/state)
 
-A Pattern A Day #8 - [Proxy](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/proxy)
+A Pattern A Day #8 - [Proxy](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/proxy)
 
-A Pattern A Day #9 - [Chain of Responsibility](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/chainofresponsibility)
+A Pattern A Day #9 - [Chain of Responsibility](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/chainofresponsibility)
 
-A Pattern A Day #10 - [Bridge](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/bridge)
+A Pattern A Day #10 - [Bridge](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/bridge)
 
-A Pattern A Day #11 - [Composite](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/composite)
+A Pattern A Day #11 - [Composite](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/composite)
 
-A Pattern A Day #12 - [Decorator](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/decorator)
+A Pattern A Day #12 - [Decorator](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/decorator)
 
-A Pattern A Day #13 - [Observer](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/observer)
+A Pattern A Day #13 - [Observer](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/observer)
 
-A Pattern A Day #14 - [Builder](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/builder)
+A Pattern A Day #14 - [Builder](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/builder)
 
-A Pattern A Day #15 - [Flyweight](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/flyweight)
+A Pattern A Day #15 - [Flyweight](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/flyweight)
 
-A Pattern A Day #16 - [Visitor](https://gitlab.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/visitor)
+A Pattern A Day #16 - [Visitor](https://github.com/onurersen/java-design-patterns/tree/master/src/com/onurersen/javadesignpatterns/visitor)
 
 ---
 

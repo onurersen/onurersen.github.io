@@ -34,7 +34,7 @@ Another type of automation would occur as a result of a conditional change withi
 then it will trigger some job to be done automatically.
 
 **_Example:_**
-Automation project I had done with my [indoor cycling sessions.](https://onurersen.gitlab.io/post/2019-02-28-indoor-cycling-automation)
+Automation project I had done with my [indoor cycling sessions.](https://onurersen.github.io/2019-02-28-indoor-cycling-automation/)
 
 But what if I create a scheduled pipeline execution?
 

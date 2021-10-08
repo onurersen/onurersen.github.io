@@ -98,7 +98,7 @@ Now, this helps me to see if I'm doing good or not :)
 
 If you see a change in charts, then you know I'm still joining those classes :)
 
-Wanna see the project? Click [here.](https://gitlab.com/onurersen/indoor-cycling-sessions)
+Wanna see the project? Click [here.](https://github.com/onurersen/indoor-cycling-sessions)
 
 ![picture alt](/img/indoor-cycling-automation/charts/avg_calories_burnt.png)
 
