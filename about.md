@@ -12,19 +12,46 @@ Hi! I’m Berat Onur Ersen.
 
 I’m using this site to log my activities, thoughts, things those matter to me. ✒️ 
 
-In the past, I was very active on social networks. I had account on Facebook, Twitter, Instagram etc. but now I prefer to concentrate on living a real life.
+---
+<p></p> 
 
-![picture alt](/img/about/keukenhof.png)
+In the past, I was very active on social networks. I had account on Facebook, Twitter, Instagram etc. but now I prefer to concentrate on living a real life. Before moving to the Netherlands, I traveled quite some for business which gave me the opportunity to discover places, people and nature.
+
+![moorea](/img/about/tahiti.jpeg) 
+*Moorea / Tahiti*
+
+---
+<p></p> 
 
 I admit that social networks are very effective in people’s lives, choices… but I don't want to miss life while trying to figure out those hashgtags.  
-Most of the time, I read about things happenning around the globe or learn about interesting history, and as matter of fact anything about information technologies.
+Most of the time, I read about things happenning around the globe or learn about interesting history, and as matter of fact I do search on brand-new/interesting technology.  
 
-![picture alt](/img/about/guatape.jpg)
+![guatape](/img/about/guatape.jpg) 
+*El Peñón / Guatapé*
 
+---
+<p></p> 
+
+In 2019, I started a Youtube channel to explain about Kubernetes technology for people who cannot find an easy-to-understand resources to learn. It attacted many organic subscribers and I am happy that I helped this many people to understand what Kubernetes is all about. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/noVNWBea_ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+---
+<p></p> 
+When I get bored, I usually find myself starting a new hobby project or creating some content or writing a song. Corona pandemic affected everyone's life all around the world and pushed me to create a podcast to discuss, to connect with people that I already know or I lately met. Rota Hollanda was the outcome of that boredom and it was so good that I saw unexpected listen counts from people all over the world. I will keep on connecting and sharing people's stories on this podcast.
+
+<iframe src="https://open.spotify.com/embed/show/4VOTQMN2PnUPjBWG2TiuJE" width="75%" height="160" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+---
+<p></p> 
 If I was not an engineer, I would like to make music for a living. Sometimes I try to record some tunes in diverse music genres, practicing music theory and see where the notes would take me. If you wonder my recordings, please check my soundcloud page 🎵
 
-![picture alt](/img/about/studio.jpg)
-
+<iframe width="75%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1140612649&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/onurersen" title="Berat Onur Ersen" target="_blank" style="color: #cccccc; text-decoration: none;">Berat Onur Ersen</a> · <a href="https://soundcloud.com/onurersen/feels-like-sunday" title="Feels Like Sunday" target="_blank" style="color: #cccccc; text-decoration: none;">Feels Like Sunday</a></div>
+  
+---
+<p></p>  
 Below are my remaining social playground on web after i removed nearly all.
 
 * [podcast](https://open.spotify.com/show/4VOTQMN2PnUPjBWG2TiuJE "Rota Hollanda Podcast")  

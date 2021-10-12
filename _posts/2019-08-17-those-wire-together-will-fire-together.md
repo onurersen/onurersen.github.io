@@ -8,7 +8,7 @@ permalink: /2019-08-17-those-wire-together-will-fire-together/
 tags: lifelessons
 ---
 
-When we were learning English at middle schools, as homework we had to write every word we learned that day 10 times before we come to class the next day. English words were strange at first and different then our mother language so we had to remember how to write and spell them.
+While learning English language, practicing via writing every word I learned again and again was the main exercise. English was a completely new language and words were so strange at first. Making it hard to remember how to write and spell as a matter of fact.
 I still have my old notebooks having hundreds of pages with words written 10s of times :)
 
 ![picture alt](/img/those-fire-together-will-fire-together/homework.gif)
