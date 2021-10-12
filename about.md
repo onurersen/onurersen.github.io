@@ -42,13 +42,13 @@ In 2019, I started a Youtube channel to explain about Kubernetes technology for 
 <p></p> 
 When I get bored, I usually find myself starting a new hobby project or creating some content or writing a song. Corona pandemic affected everyone's life all around the world and pushed me to create a podcast to discuss, to connect with people that I already know or I lately met. Rota Hollanda was the outcome of that boredom and it was so good that I saw unexpected listen counts from people all over the world. I will keep on connecting and sharing people's stories on this podcast.
 
-<iframe src="https://open.spotify.com/embed/show/4VOTQMN2PnUPjBWG2TiuJE" width="75%" height="160" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/show/4VOTQMN2PnUPjBWG2TiuJE" width="100%" height="160" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ---
 <p></p> 
 If I was not an engineer, I would like to make music for a living. Sometimes I try to record some tunes in diverse music genres, practicing music theory and see where the notes would take me. If you wonder my recordings, please check my soundcloud page 🎵
 
-<iframe width="75%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1140612649&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/onurersen" title="Berat Onur Ersen" target="_blank" style="color: #cccccc; text-decoration: none;">Berat Onur Ersen</a> · <a href="https://soundcloud.com/onurersen/feels-like-sunday" title="Feels Like Sunday" target="_blank" style="color: #cccccc; text-decoration: none;">Feels Like Sunday</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1140612649&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/onurersen" title="Berat Onur Ersen" target="_blank" style="color: #cccccc; text-decoration: none;">Berat Onur Ersen</a> · <a href="https://soundcloud.com/onurersen/feels-like-sunday" title="Feels Like Sunday" target="_blank" style="color: #cccccc; text-decoration: none;">Feels Like Sunday</a></div>
   
 ---
 <p></p>  
