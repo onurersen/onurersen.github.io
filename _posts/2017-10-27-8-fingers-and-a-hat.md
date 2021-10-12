@@ -7,7 +7,7 @@ draft: false
 permalink: /2017-10-27-8-fingers-and-a-hat/
 ---
 
-Most of us will remember Chaplin when we're talking about black&white silent film era.  
+Most of us will remember Chaplin. Especially while talking about black&white silent film era.  
 ...but there was another man who made movies still worth watching.  
 He made around 200 movies in his whole career.  
 During the shooting of a movie, a real bomb exploded in his hand, causing him to lose two fingers, a burned face 
