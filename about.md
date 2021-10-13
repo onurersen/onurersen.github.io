@@ -18,6 +18,8 @@ I’m using this site to log my activities, thoughts, things those matter to me.
 In the past, I was very active on social networks. I had account on Facebook, Twitter, Instagram etc. but now I prefer to concentrate on living a real life. Before moving to the Netherlands, I traveled quite some for business which gave me the opportunity to discover places, people and nature.
 
 ![moorea](/img/about/tahiti.jpeg) 
+---
+<p></p> 
 *Moorea / Tahiti*
 
 ---
@@ -26,7 +28,9 @@ In the past, I was very active on social networks. I had account on Facebook, Tw
 I admit that social networks are very effective in people’s lives, choices… but I don't want to miss life while trying to figure out those hashgtags.  
 Most of the time, I read about things happenning around the globe or learn about interesting history, and as matter of fact I do search on brand-new/interesting technology.  
 
-![guatape](/img/about/guatape.jpg) 
+![guatape](/img/about/guatape.jpg)
+---
+<p></p>  
 *El Peñón / Guatapé*
 
 ---
