@@ -17,9 +17,10 @@ I bumped into a couple of podcasts about this topic and started to think that it
 
 Time to time I meet with some friends to listen to their stories during some social occasions. Quite often, I meet with people who would like to tell something interesting to me, something they encountered lately.  To be honest, I really look for authentic and genuine narrations which will provide something to my personal development. Yes, it is better to be a win-win situation, even for this sort of conversation :)  
   
-Long story short, time is precious and I'm acting as pragmatist as I can be.
+Long story short, time is precious and I'm acting as pragmatist as I can be.  
+
 However, people sometimes do not care about what the other person is expecting at a certain moment or if the other person is really interested in what they're talking about. It turns out to be depending on the emotional intelligence of the storyteller to keep the conversation going and keeping the interest of the person listening at the maximum level.  
 
-If you summarize (or provide sneak peak first), then verbalize, It will be the same as if you're checking the executive summary of an article or a book and if you're not interested you do not go with the details.
+If you summarize (or provide sneak peek first), then verbalize, It will be the same as if you're checking the executive summary of an article or a book and if you're not interested you do not go with the details.
 
 In a fruitful two-way communication most participants shall be respecting what the other person seeks in the conversation. It will definitely help to save time for more important things and not waste any productive time for both parties.
