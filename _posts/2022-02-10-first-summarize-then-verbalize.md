@@ -23,4 +23,4 @@ However, people sometimes do not care about what the other person is expecting a
 
 If you summarize (or provide sneak peek first), then verbalize, It will be the same as if you're checking the executive summary of an article or a book and if you're not interested you do not go with the details.
 
-In a fruitful two-way communication most participants shall be respecting what the other person seeks in the conversation. It will definitely help to save time for more important things and not waste any productive time for both parties.
+In a fruitful two-way communication most participants shall be respecting what the other person seeks in the conversation. It will definitely help to save time for more important things and use time effectively for both parties.
