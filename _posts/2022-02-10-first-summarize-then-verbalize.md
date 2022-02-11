@@ -19,7 +19,7 @@ Time to time I meet with some friends to listen to their stories during some soc
   
 Long story short, time is precious and I'm acting as pragmatist as I can be.  
 
-However, people sometimes do not care about what the other person is expecting at a certain moment or if the other person is really interested in what they're talking about. It turns out to be depending on the emotional intelligence of the storyteller to keep the conversation going and keeping the interest of the person listening at the maximum level.  
+However, people sometimes do not care about what the other person is expecting at a certain moment or if the other person is really interested in what they're talking about. It turns out to be depending on the emotional intelligence of the storyteller to keep the conversation going and keeping the interest of the person listening at the maximum level, or totally stop with the conversation.
 
 If you summarize (or provide sneak peek first), then verbalize, It will be the same as if you're checking the executive summary of an article or a book and if you're not interested you do not go with the details.
 
