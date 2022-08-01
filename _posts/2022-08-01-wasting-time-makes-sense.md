@@ -13,17 +13,22 @@ When you hear from people labeling activities like nonsense, not need it, waste 
 
 ![picture alt](/img/wasting-time-makes-sense/time.gif)
 
-With too many distractions in our lives, it is impossible for us to be caught with WoT feeling. As modern-day workers, we are constantly being pushed to check some boxes, improve ourselves, keep up with the latest technology and trend, monitor social media, take care of ourselves and our loved ones, and million more things to be done. Being so much overloaded with lots of responsibilities and many bars to raise ourselves, we can find ourselves filtering all the things those mean nothing to us. In an extreme level, pending time on streaming platforms, playing video games, cooking, reading books, all become meaningless and waste of time.  
+With too many distractions in our lives, it is impossible for us to be caught with WoT feeling. As modern-day workers, we are constantly being pushed to check some boxes, improve ourselves, keep up with the latest technology and trend, monitor social media, take care of ourselves and our loved ones, and million more things to be done.  
+
+Being so much overloaded with lots of responsibilities and many bars to raise for ourselves, we can filter everything meaning nothing to us. In an extreme level, spending time on streaming platforms, playing video games, cooking, reading books, all become meaningless and waste of time.  
 
 As an example, sometime ago I started to think that my PlayStation 4 was the most useless device that I have at home. Why? Because it was wasting my time playing video games every now and then. On the flipside, I remember last year playing and enjoying games like God of War, Red Dead Redemption 2, Call of Duty etc.  
 
-Moreover, I started to cook really simple dishes using my air fryer, preferred ready to consume packaged food that I buy from the supermarket. Why? Because it was a waste of time to cook complex dishes, those in the end will be helping to cope with my hunger.  
+Moreover, I started to cook really simple dishes using my air fryer, preferred ready to consume packaged food that I buy from the supermarket. Why? Because it was waste of time to cook complex dishes, those in the end will be helping to cope with my hunger.  
 
 It became such disturbing for me to give up on most of the things that I enjoy, that may add fun into to my life...  
 
 So I stopped and change my mind on labeling things like "waste of time" and "makes sense to do".  
 
-Time sometimes feels like slipping away, sometimes it gives you the feeling of a commodity that we need to trade it with good reason. In other words, thinking that we only live once, one can think that we have to use our time for the very important things. The truth is whatever you do or wherever you go, you will be wasting huge amount of your time while commuting, cooking, walking, sitting, chatting, doing X, doing Y, doing Z etc.  
+![picture alt](/img/wasting-time-makes-sense/barney.gif)  
+
+It is true that time feels like slipping away, sometimes it gives you the feeling of a commodity that you need to trade it with good reason. In other words, thinking that we only live once, one can think that we have to use our time for the very important things.  
+The truth is whatever you do or wherever you go, you will be wasting huge amount of your time while commuting, cooking, walking, sitting, chatting, doing X, doing Y, doing Z etc.  
 
 Time spent could be meaningful when you enjoy it, when you are aware of what you're doing and especially if you want to do it. Lately I started to things that doing anything with free will and desire cannot be categorized as waste of time.  
 
@@ -31,6 +36,6 @@ I now believe that watching your favorite TV show or playing your favorite game 
 It is your personal choice and you shall not be judging yourself doing it.  
 If you enjoy it, if you're having fun whenever you feel like doing it, just do it.  
 
-Sometimes we absolutely need to waste our time. For our minds to relax, for our perspectives to change.
+Sometimes we absolutely need to waste our time. For our minds to relax, for our perspectives to change.  
 
 ![picture alt](/img/wasting-time-makes-sense/conan.gif)
