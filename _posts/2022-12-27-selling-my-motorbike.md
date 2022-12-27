@@ -3,7 +3,7 @@ layout: page
 title: "Selling My Motorbike"
 author: "Berat Onur Ersen"
 date: 2022-12-27
-draft: false
+draft: true
 permalink: /2022-12-27-selling-my-motorbike/
 tags: travel
 ---
