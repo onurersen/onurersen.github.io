@@ -6,7 +6,7 @@ date: 1923-10-29
 permalink: /about/
 ---
 
-![picture alt](/img/about/bosenlommer.png)
+![picture alt](/img/about/withcowsinalps.png)
 
 Hi! I’m Berat Onur Ersen.
 
@@ -15,7 +15,7 @@ I’m using this site to log my activities, thoughts, things those matter to me.
 ---
 <p></p> 
 
-In the past, I was very active on social networks. I had account on Facebook, Twitter, Instagram etc. but now I prefer to concentrate on living a real life. Before moving to the Netherlands, I traveled quite some for business which gave me the opportunity to discover places, people and nature.
+In the past, I was quite active on social networks. I had account on Facebook, Twitter, Instagram etc. but now I prefer to concentrate on offline way of  living more. Before moving to the Netherlands, I traveled some for business which gave me the opportunity to discover places, people and nature.
 
 ![moorea](/img/about/tahiti.jpeg) 
 ---
@@ -25,8 +25,8 @@ In the past, I was very active on social networks. I had account on Facebook, Tw
 ---
 <p></p> 
 
-I admit that social networks are very effective in people’s lives, choices… but I don't want to miss life while trying to figure out those hashgtags.  
 Most of the time, I read about things happenning around the globe or learn about interesting history, and as matter of fact I do search on brand-new/interesting technology.  
+I do watch informative Youtube videos, tv-shows depicting real life or at least telling a considerably good story, podcasts.  
 
 ![guatape](/img/about/guatape.jpg)
 ---
@@ -36,7 +36,7 @@ Most of the time, I read about things happenning around the globe or learn about
 ---
 <p></p> 
 
-In 2019, I started a Youtube channel to explain about Kubernetes technology for people who cannot find an easy-to-understand resources to learn. It attacted many organic subscribers and I am happy that I helped this many people to understand what Kubernetes is all about. 
+In 2019, I started a Youtube channel to explain about Kubernetes technology for people who cannot find an easy-to-understand resources to learn. It attacted many organic subscribers and I am happy that I helped this many people to understand what Kubernetes is all about.  I cannot maintain it for a long time, but I am happy that viewers liked it and it provided a good kickstart for the ones trying to understand that particular technology.  
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/noVNWBea_ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
