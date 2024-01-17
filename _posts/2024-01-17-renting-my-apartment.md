@@ -44,6 +44,8 @@ Blok içinde kapılar manyetik kartla açılıyor.
 
 Özelden ulaşanlara yukarıdaki maliyetler hakkında bilgi verebilirim.  
 
+[rotahollanda@gmail.com](mailto:rotahollanda@gmail.com) 
+
 **Kira 2200 euro. Depozito 2 kira bedelidir.**  
 
 ---
@@ -85,4 +87,6 @@ I can provide information about the above costs to those who reach me privately.
 
 **Rent is 2000 euros. The deposit is 2 rental fees.**
 
-<iframe src="https://albumizr.com/a/LdQ-" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
+[rotahollanda@gmail.com](mailto:rotahollanda@gmail.com)  
+
+<iframe src="https://albumizr.com/a/7sMT" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
