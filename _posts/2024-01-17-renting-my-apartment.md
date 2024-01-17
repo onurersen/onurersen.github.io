@@ -87,7 +87,7 @@ The doors inside the block are opened with a magnetic card.
 
 I can provide information about the above costs to those who reach me privately.
 
-**Rent is 2000 euros. The deposit is 2 rental fees.**
+**Rent is 2200 euros. The deposit is 2 rental fees.**
 
 [rotahollanda@gmail.com](mailto:rotahollanda@gmail.com)  
 
