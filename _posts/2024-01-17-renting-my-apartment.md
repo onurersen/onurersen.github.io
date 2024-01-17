@@ -48,6 +48,8 @@ Blok içinde kapılar manyetik kartla açılıyor.
 
 **Kira 2200 euro. Depozito 2 kira bedelidir.**  
 
+<iframe src="https://albumizr.com/a/7sMT" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
+
 ---
 
 I am renting my apartment with A energy label and underfloor heating in Diemen Zuid / Holland Park with a contract of at least 1 year.  
