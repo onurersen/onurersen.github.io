@@ -35,6 +35,17 @@ I do watch informative Youtube videos, tv-shows depicting real life or at least 
 ---
 <p></p> 
 
+I like travelling around the world, like many of us do. In the past, I traveled a lot for business. For the last five years, I haven't been mowing much for business but mostly for leisure. 
+I believe that people cannot level themselves up as long as they travel for their eyes only. Just to see new things, for me is another form of procrastination. When our brains, and our feelings getting into the mix of what we experience, there becomes unforgettable memories and new learnings unlocked. With that in mind, I push myself to understand during my travels.
+
+![guatape](/img/about/senso_ji.jpeg)
+---
+<p></p>  
+*Senso-Ji Temple / Tokyo*
+
+---
+<p></p> 
+
 In 2019, I started a Youtube channel to explain about Kubernetes technology for people who cannot find an easy-to-understand resources to learn. It attacted many organic subscribers and I am happy that I helped this many people to understand what Kubernetes is all about.  I cannot maintain it for a long time, but I am happy that viewers liked it and it provided a good kickstart for the ones trying to understand that particular technology.  
 
 <figure class="video_container">
