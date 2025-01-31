@@ -8,46 +8,45 @@ permalink: /2025-01-30-what-money-can-buy/
 tags: personal
 ---
 
-Lately, I get Influence by the things that I see, the things that people recommend, the things that people who accept as authority and advice.
-I feel like I am being influenced by the modern world. 
+Lately, I've noticed how much I'm influenced by the things I see, the recommendations I receive, and the advice from people 
+I consider authorities. It feels like the modern world is constantly shaping my decisions.
+
+To be honest, social media and marketing make us buy things we don't really need. The line between "needs" and "wants" has become blurred, 
+thanks to the overwhelming amount of information we're bombarded with. 
   
-
-To be honest, social media and all this marketing things Make people buy things that they don't really need.
-"Needs and Wants", right... Nowadays we cannot distinguish between these two, many thanks to a lot of information being pushed over us, however Everything and 
-everyone tries to pull us to the orbit of "Wants".
-
-I generally avoid buying stuff that won't change in my life in a positive way. Around 2019, I bought DJI Osmo Mobile. Gimbal world for Youtubers, 
-broadcaster was booming. 
-Since mobile phones were also enhancing in video recording technology, I wanted get into wagon to produce something remarkable. Indeed, I had no 
-idea what the gimbal was at that time and one day a colleague gave his brand new shiny DJI Osmo Mobile to me to test for the weekend. I was amazed by the 
-possibilities of shooting videos and being creative with that device. As a matter of fact, ordered mine right away. At first it was super fun to shoot videos 
-using my mobile phone mounted on that gimbal. Later, it became a burden to carry the gimbal, mount it, calibrate it etc. 
+>  Everything and everyone seem to pull us into the orbit of "wants."
+  
+I generally avoid buying things that won't positively impact my life. Around 2019, I bought a DJI Osmo Mobile. 
+The gimbal world was booming among YouTubers and broadcasters. With mobile phones improving in video recording technology, 
+I wanted to jump on the bandwagon and create something remarkable. I had no idea what a gimbal was until a colleague 
+lent me his brand-new DJI Osmo Mobile for the weekend. I was amazed by the possibilities it offered for shooting videos and being creative. 
+I ordered mine right away. Initially, it was super fun to shoot videos with my mobile phone mounted on the gimbal. However, 
+it soon became a burden to carry, mount, and calibrate.
   
 ![picture alt](/img/what-money-can-buy/gimbalcalibrate.png)
   
-Also DJI released new more capable versions of it and I ended up preferring not to carry it with me instead use my barehands to shoot interesting videos. I later somehow sold it and promised myself
- not to buy another technological device that I really want, but I really need.
+As DJI released more advanced versions, I found myself preferring to shoot videos with my bare hands. Eventually, 
+I sold the gimbal and promised myself not to buy another technological device unless I truly needed it.
   
-We are humans, and humans can make the very same mistake again and again...
+>  We are human, and humans can make the same mistake repeatedly.
   
-Recently, I was listening to Andrew Huberman's podcast. In an episode, he was talking about sleep quality and improve effectiveness of the sleep. 
-His speech at one moment went around Wake-up lights. He told that he found them useful, since he was behind the idea of getting natural or artifical light 
-somehow during the very first moments when people wake-up. This way, people can activate their eye nerves and get morning boost to feel beter and perform better. 
-Of course, I did search and ordered mine in a few days. I was not capable of evaluating if it was a "Need" or a "Want". 
-  
-For sure, I was struggling waking up in the morning, because I live in a country which is dark long in the mornings, especially during autumn and winter days. 
-First ridiculous thing I bumped into was super-high prices from Philips for a Wake-up light. More than 100 even close 200 euro for a simple light with a timer 
-and slowly dimming light functionality??? while even it is super-cheap LED lighting technology??? 
-I was really curious about who did valuation of this non-advanced technology/product, and how...
-In the end, I bought a cheap device that I can use for its sole purpose.
-  
-In the morning of the very next day that I bought my Wake-Up light, I woke up 30 mins before it started to shine and its alarm went off. And then same 
-thing happennd on the other day and then another day... It was long that after I realized that I paid for the Wake-Up light to motivate 
-my inner clock to wake up automatically early. 
+Recently, I was listening to Andrew Huberman's podcast. In one episode, he discussed sleep quality and 
+how to improve it. He mentioned wake-up lights and found them useful because they provide natural or artificial light 
+during the first moments of waking up. This helps activate the eye nerves and gives a morning boost to feel and perform 
+better. Naturally, I researched and ordered one within a few days. I couldn't determine if it was a "need" or a "want."
+
+I struggled to wake up in the morning, especially during the dark autumn and winter days in my country. 
+The first ridiculous thing I encountered was the high prices from Philips for a wake-up light—over 100, 
+even close to 200 euros for a simple light with a timer and dimming functionality, despite the cheap LED lighting technology. 
+I was curious about who valued this non-advanced product and how. In the end, I bought a cheaper device that served its purpose.
+
+The morning after I bought my wake-up light, I woke up 30 minutes before it started to shine and its alarm went off. 
+The same thing happened the next day and the day after. Eventually, I realized I had paid for the wake-up light to motivate my inner clock to wake up early automatically.
+
+>  Sometimes, we pay not just for physical goods also to stimulate ourselves to realize we don't actually need something but 
+the effect of having it. 
+
+Owning a gimbal made me realize I didn't need one to record videos. Similarly, owning a wake-up light made me 
+realize I could wake up without it, although I still need the artificial lighting it provides in the mornings, as Mr. Huberman suggests.
   
 ![picture alt](/img/what-money-can-buy/wakeup.gif)
-  
-I think sometimes we pay the price not for only the physical goods but to stimulate ourselves to realize that we don't actually need something but the effect of having it.
-Owning a gimbal made me realize that I do not need a gimbal, everything around recording a video is possible without a gimbal and then owning a Wake-Up light made me realize that as long as 
-I can wake up without a Wake-Up light - but anyway still I need that artificial lighting that it provides in the mornings, says Mr Huberman :)  
-
