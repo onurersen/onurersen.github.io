@@ -20,11 +20,11 @@ Grubun ilk sınavı vokalist bulma sürecinde başladı. İlk olarak Burçin ile
 
 Grubun ismine de o dönemde karar verdik. Grubumuzun ismini  ülkeye yeni yerleşen Türk jenerasyon olmamızdan New Turks koyduk. Türkçe müzik yapıyorduk aynı zamanda o da bir faktördü. Bu biraz da benim inisiyatif almam sonucu oldu çünkü oylama yaptığımız zaman çok sallamasyon isimler ortaya atıldı. Akılda kalıcı olması açısından ve vizyonumuzu yansıttığı için bu isimde devam ettik. Bu ismi Serkan hiçbir zaman beğenmedi.
 
-Bu arayış ve isim koyma süreci devam ederken vokal yarışması düzenledik, bir vokal beğendik sadece 1 kere stüdyoya girebildik kendisinin ailevi ve sağlık nedenleriyle Türkiye’ye dönmesi gerekti. 
+Bu arayış ve isim koyma süreci devam ederken vokal yarışması düzenledik, bir vokal beğendik sadece bir kere stüdyoya girebildik. Kendisinin ailevi ve sağlıksal problemleri nedenleriyle Türkiye’ye dönmesi gerekti. İyi insandı, o yüzden elimiz kolumuz bağlandı ve kendisine veda etmek zorunda kaldık.
 
 Tam o sırada Ömer, Türkiye’den yurtdışına yeni taşınan, sahne sanatları, oyunculuk ve tiyatro geçmişi Eyşan ile tanıştı. Ses rengi bizi tatmin etmese de sahnedeki enerjisine güvenip yola çıktık. Manchester’daki ilk konserimiz başarılıydı, enerjisi yüksek kaliteli bir konser olmuştu.
 
-Ancak konser sonrası kutlama yemeğimizde Ömer’in elini kırmasıyla olaylar karıştı. Neyseki Ömer kendsinin yerine çalacak bir davulcu buldu. Bir sonraki konser için o  davulcuyla çalıştık; bu durum benim için yeni müzikal kapılar açsa da grubun ivmesini kısa süreli de olsa etkiledi. 
+Ancak konser sonrası kutlama yemeğimizde Ömer’in elini kırmasıyla olaylar karıştı. Neyseki Ömer kendisinin yerine çalacak bir davulcu buldu. Bir sonraki konser için o  davulcuyla çalıştık; bu durum benim için yeni müzikal kapılar açsa da grubun ivmesini kısa süreli de olsa etkiledi. 
 
 Manchester’dan sonra Londra’da da 5-6 konser daha verdik ve hepsi "sold out" oldu. Bu başarı, tırnaklarımızla kazıyarak, yakın çevremizin desteği ve sosyal medya reklamlarıyla oluşturduğumuz bir çabanın sonucuydu. 
 
