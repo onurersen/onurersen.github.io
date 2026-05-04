@@ -8,8 +8,6 @@ permalink: /2026-05-04-muzik-grubu-anatomisi-ihanet-vizyon-ve-ayilar/
 tags: personal
 ---
 
-# Bir Müzik Grubunun Anatomisi: İhanet, Vizyon ve "Ayılar"
-
 Yurtdışına yerleşen çoğu göçmen gibi ben de ruhumun eksik kalan yanını, yani İstanbul’un o kaliteli, enerjik sahne kültürünü bu şehirde aradım. 20 yıllık gitar tecrübemle, bu boşluğu doldurmak için bir adım attım. 
 
 Arkadaşım Babür’ün vesilesiyle, eski bir tanıdık üzerinden davulcu Ömer ile tanıştım; Ömer vizyonu olan, müzikal derinliği yüksek bir isimdi. Bas gitara ise aynı şirkette çalıştığım, "gurbetteki dostum" olarak gördüğüm Serkan’ı davet ettim. Serkan, İzmir ve İstanbul barlarının tozunu yutmuş bir isimdi; ancak zamanla tecrübenin, müzik grubu içi uyum için tek başına yeterli olmadığını anlayacaktım.
