@@ -102,4 +102,4 @@ Editörün Notu: Birlikte güzel işlere imza atacağınız insanların vizyonun
 
 ----
 
-![picture alt](/img/muzik-grubu-anatomisi-ihanet-vizyon-ve-ayilar/rezonans)
+![picture alt](/img/muzik-grubu-anatomisi-ihanet-vizyon-ve-ayilar/rezonans.png)
