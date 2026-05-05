@@ -99,3 +99,7 @@ Fikirler ölmez, sadece şekil değiştirir.
 ----
 
 Editörün Notu: Birlikte güzel işlere imza atacağınız insanların vizyonundan önce ahlakına bakın. Gerisi sadece teferruattır.
+
+----
+
+![picture alt](/img/muzik-grubu-anatomisi-ihanet-vizyon-ve-ayilar/rezonans)
