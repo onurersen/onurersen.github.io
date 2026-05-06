@@ -8,8 +8,6 @@ permalink: /2026-05-06-navigating-the-cost-of-belonging/
 tags: personal experiences, culture shock, integration, community, expat life
 ---
 
-# Navigating the Cost of Belonging
-
 I have often thought that moving to a new country is like standing in a field of invisible radiation. When you first arrive, you have to decide what to do with that energy. 
 
 **For some, if they arrive feeling lost or unfulfilled, this new life can act like a catalyst—a way to burn off old, stagnant habits and finally become the person they were meant to be. It can be a genuine reset.**
